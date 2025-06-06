@@ -1,0 +1,17 @@
+{
+  "name": "ronin-erc20-balance",
+  "version": "1.0.0",
+  "description": "Check ERC20 token balance on Ronin Saigon network",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "typescript": "^4.9.5",
+    "ts-node": "^10.9.1"
+  }
+}
